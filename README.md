@@ -16,7 +16,7 @@ To run the projects, follow these steps:
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-username/HackingWithSwiftUI.git
+   git clone https://github.com/belovezhalin/HackingWithSwiftUI.git
    ```
 2. Open the desired project folder in **Xcode**.
 3. Build and run the project using the **iOS Simulator**.
